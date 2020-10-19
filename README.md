@@ -25,7 +25,7 @@ OK
 127.0.0.1:6379> MONITOR
 ```
 
-Run the Microservice and test via <b>Swagger<b> URL.
+Run the Microservice and test via <b>Swagger</b> URL.
 
 [http://localhost:8080/api/swagger-ui.html]()
 
